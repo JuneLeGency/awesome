@@ -5,30 +5,29 @@
 
 ## TOC
 
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-end Development](#front-end-development)
-- [Back-end Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Developer Environment](#developer-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Resources](#resources)
-- [Learn](#learn)
-- [Security](#security)
-- [Platforms](#platforms)
-- [Miscellaneous](#miscellaneous)
+- [平台](#平台)
+- [编程语言](#编程语言)
+- [前端开发](#前端开发)
+- [后端开发](#后端开发)
+- [计算机科学](#计算机科学)
+- [大数据](#大数据)
+- [理论](#理论)
+- [书籍](#书籍)
+- [编辑器](#编辑器)
+- [游戏](#游戏)
+- [开发环境](#开发环境)
+- [娱乐](#娱乐)
+- [数据库](#数据库)
+- [资料](#资料)
+- [学习](#学习)
+- [安全](#安全)
+- [杂项](#杂项)
 
 
-## Platforms
+## 平台
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs)
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [NodeJs](https://github.com/sindresorhus/awesome-nodejs)
+- [前端开发](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
 - [Hybrid Apps](https://github.com/weblancaster/awesome-hybrid)
@@ -37,7 +36,7 @@
 - [React Native](https://github.com/jondot/awesome-react-native)
 
 
-## Programming Languages
+## 编程语言
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
@@ -71,7 +70,7 @@
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 
 
-## Front-end Development
+## 前端开发
 
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
@@ -102,7 +101,7 @@
 - [Material Design](https://github.com/sachin1092/awesome-material)
 
 
-## Back-end Development
+## 后端开发
 
 - [Django](https://github.com/rosarior/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
@@ -118,26 +117,26 @@
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 
 
-## Computer Science
+## 计算机科学
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
-- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Machine 学习](https://github.com/josephmisiti/awesome-machine-learning)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
+- [Deep 学习](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
 
 
-## Big Data
+## 大数据
 
-- [Big Data](https://github.com/onurakpolat/awesome-bigdata)
+- [大数据](https://github.com/onurakpolat/awesome-bigdata)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 
 
-## Theory
+## 理论
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
@@ -147,22 +146,22 @@
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
 
 
-## Books
+## 书籍
 
-- [Free Programming Books](https://github.com/vhf/free-programming-books)
-- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
-- [GoBooks](https://github.com/dariubs/GoBooks)
-- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
+- [Free Programming 书籍](https://github.com/vhf/free-programming-books)
+- [Free Software Testing 书籍](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+- [Go书籍](https://github.com/dariubs/Gobooks)
+- [Mind Expanding 书籍](https://github.com/hackerkid/Mind-Expanding-books)
 
 
-## Editors
+## 编辑器
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Vim](http://vimawesome.com)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
 
-## Gaming
+## 游戏
 
 - [Game Development](https://github.com/ellisonleao/magictools)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
@@ -170,7 +169,7 @@
 - [Open Source Games](https://github.com/leereilly/games)
 
 
-## Developer Environment
+## 开发环境
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 - [Dev Env](https://github.com/jondot/awesome-devenv)
@@ -181,21 +180,21 @@
 - [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 
 
-## Entertainment
+## 娱乐
 
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [Podcasts](https://github.com/cv/awesome-geek-podcasts)
 
 
-## Databases
+## 数据库
 
 - [Database](https://github.com/numetriclabz/awesome-db)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 
 
-## Resources
+## 资料
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Images](https://github.com/heyalexej/awesome-images)
@@ -203,22 +202,22 @@
 - [Codeface](https://github.com/chrissimpkins/codeface) *(Text editor fonts)*
 
 
-## Learn
+## 学习
 
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
-- [Learn to Program](https://github.com/karlhorky/learn-to-program)
+- [学习 to Program](https://github.com/karlhorky/learn-to-program)
 
 
-## Security
+## 安全
 
-- [Application Security](https://github.com/paragonie/awesome-appsec)
-- [Security](https://github.com/sbilly/awesome-security)
+- [Application security](https://github.com/paragonie/awesome-appsec)
+- [security](https://github.com/sbilly/awesome-security)
 - [CTF](https://github.com/apsdehal/awesome-ctf)
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [Android Security](https://github.com/ashishb/android-security-awesome)
+- [Android 安全](https://github.com/ashishb/android-security-awesome)
 
 
-## Miscellaneous
+## 杂项
 
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Answers](https://github.com/jugoncalves/awesome-answers) *(Stack Overflow, Quora, etc)*
