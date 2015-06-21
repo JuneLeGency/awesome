@@ -1,9 +1,10 @@
-# Awesome
+# 大牛养成记
 
 > A curated list of awesome lists
+非常感谢sindresorhus 的整理
+Thanks to https://github.com/sindresorhus/awesome
 
-
-## TOC
+## 目录
 
 - [平台](#平台)
 - [编程语言](#编程语言)
